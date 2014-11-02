@@ -1,3 +1,6 @@
+.DS_Store 
+obj/
+
 *.swp
 README~
 .gitignore~
@@ -19,5 +22,3 @@ README~
 *.make
 *.rc
 
-
-obj/*.
