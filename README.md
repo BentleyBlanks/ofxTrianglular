@@ -5,6 +5,12 @@ ofxTrianglular
 支持到跨平台```OSX```与```Windows```平台(Xcode 6.0, Visual Studio 2012) ```Linux```平台并未测试
 
 =====
+###构建说明
+* src中为ofxTriangular库本身 无其他依赖项<br><br>
+* example中的案例依赖ofxUI ofxXmlSettings的addon<br><br>
+* 运行案例只需要替换默认的ofApp.cpp .h main.cpp<br><br>
+
+=====
 ###运行截图
 ####OSX
 ![image](https://github.com/BentleyBlanks/ofxTrianglular/raw/master/pictures/Mac (1).png)
