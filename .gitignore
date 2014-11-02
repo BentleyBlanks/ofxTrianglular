@@ -16,5 +16,8 @@ README~
 *.vcxproj
 *.filters
 *.user
+*.make
+*.rc
 
-obj/*
+
+obj/*.
