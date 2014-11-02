@@ -21,4 +21,6 @@ README~
 *.user
 *.make
 *.rc
-
+*.dll
+*.exp
+*.lib
