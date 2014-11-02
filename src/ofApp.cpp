@@ -86,6 +86,8 @@ void ofApp::guiEvent(ofxUIEventArgs &e)
         triangular.setBoundary(polyline);
         triangular.setHoles(holes);
         
+        triangular.setLevelOfTesselation(slider->getValue());
+		
         triangles = triangular.triangulate();
         
         for(int i=0; i<triangles.size(); i++)
@@ -94,14 +96,10 @@ void ofApp::guiEvent(ofxUIEventArgs &e)
             triangles[i].setFill(false);
         }
     }
-    else if(name == "tesslationSlider")
-    {
-        triangular.setLevelOfTesselation(slider->getValue());
-    }
     else if(name == "Clear")
     {
         bClear = true;
-        
+
         polyline.clear();
         holeline.clear();
         holes.clear();
