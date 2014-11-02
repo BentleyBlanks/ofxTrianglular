@@ -12,9 +12,11 @@ ofxTrianglular
 ####Windows
 ![image](https://github.com/BentleyBlanks/ofxTrianglular/raw/master/pictures/Windows (1).jpg)
 
-####目前已知BUG
+
+=====
+###目前已知不足
 * Tesselation的选项可用但效果不明显 只有在最左端和最右端相互对比才可见其变化<br><br>
-* 
+* 不支持迭代, 约束线等高级triangle特性(接口并未开放 )
 
 =====
 ####极端情况
