@@ -11,8 +11,10 @@ README~
 *.ilk
 *.log
 *.lastbuildstate
-#*.sln
-#*.suo
-#*.vcxproj
-#*.filters
-#*.user
+*.sln
+*.suo
+*.vcxproj
+*.filters
+*.user
+
+obj/*
