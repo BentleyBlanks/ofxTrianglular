@@ -12,6 +12,7 @@ Based on ```Jonathan Richard Shewchuk```'s triangle http://www.cs.cmu.edu/~quake
 
 =====
 ###How to bulid?
+
 * src中为ofxTriangular库本身 无其他依赖项<br><br>
    * Only need ofxTriangular library,and no need other dependencies<br><br> 
 * example中的案例依赖ofxUI ofxXmlSettings的addon<br><br>
