@@ -2,10 +2,11 @@ ofxTrianglular
 ==============
 
 能够非常简易的将任意2d图形进行三角形细分 底层库为triangle与OpenFrameworks<br><br>
-支持到跨平台```OSX```与```Windows```平台(Xcode 6.0, Visual Studio 2012) ```Linux```平台并未测试
+支持到跨平台```OSX```与```Windows```平台(Xcode 6.0, Visual Studio 2012) ```Linux```平台并未测试<br><br>
 
-Easy to subdivide a complex 2d shape to triangles.
+Easy to subdivide a complex 2d shape to triangles.<br><br>
 Support ```OSX``` and ```Windows```(Xcode 6.0, Visual Studio 2012), but no test on ```Linux```.
+
 =====
 ###构建说明 How to bulid?
 * src中为ofxTriangular库本身 无其他依赖项<br><br>
