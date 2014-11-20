@@ -6,7 +6,7 @@ ofxTrianglular
 
 Easy to subdivide a complex 2d shape to triangles.<br><br>
 Support ```OSX``` and ```Windows```(Xcode 6.0, Visual Studio 2012), but no test on ```Linux```.<br><br>
-Based on Jonathan Richard Shewchuk's triangle```http://www.cs.cmu.edu/~quake/triangle.html```<br><br>
+Based on Jonathan Richard Shewchuk's triangle[http://www.cs.cmu.edu/~quake/triangle.html]<br><br>
 
 
 =====
