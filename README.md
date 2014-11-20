@@ -8,7 +8,7 @@ Easy to subdivide a complex 2d shape to triangles.<br><br>
 Support ```OSX``` and ```Windows```(Xcode 6.0, Visual Studio 2012), but no test on ```Linux```.
 
 =====
-###构建说明 How to bulid?
+###How to bulid?
 * src中为ofxTriangular库本身 无其他依赖项<br><br>
    * Only need ofxTriangular library,and no need other dependencies<br><br> 
 * example中的案例依赖ofxUI ofxXmlSettings的addon<br><br>
@@ -17,7 +17,7 @@ Support ```OSX``` and ```Windows```(Xcode 6.0, Visual Studio 2012), but no test 
    * replace the defalut project's ofApp.cpp + .h + main.cpp<br><br>
 
 =====
-###运行截图 Screenshot
+###Screenshot
 ####OSX
 ![image](https://github.com/BentleyBlanks/ofxTrianglular/raw/master/pictures/Mac (1).png)
 
