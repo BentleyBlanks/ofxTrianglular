@@ -13,7 +13,7 @@ Based on ```Jonathan Richard Shewchuk```'s [triangle library]( http://www.cs.cmu
 * Only need ofxTriangular library,and no need other dependencies<br>
 
 
-* To bulid example you need to include ofxUI and ofxXmlSettings<br>
+* To bulid example you need to include [ofxUI](https://github.com/rezaali/ofxUI) and [ofxXmlSettings](https://github.com/openframeworks/openFrameworks/tree/master/addons/ofxXmlSettings)<br>
 
 
 * replace the defalut project's ```ofApp.cpp``` + ```ofApp.h``` + ```main.cpp```<br>
