@@ -4,19 +4,19 @@ Easy to subdivide a complex 2d shape to triangles.<br>
 
 Support ```OSX``` and ```Windows```(Xcode 6.0, Visual Studio 2012), ```Linux```(QtCreator, Ubuntu, Thanks for [icq4ever](https://github.com/icq4ever)).<br>
 
-Based on ```Jonathan Richard Shewchuk```'s triangle http://www.cs.cmu.edu/~quake/triangle.html<br>
+Based on ```Jonathan Richard Shewchuk```'s [triangle library]( http://www.cs.cmu.edu/~quake/triangle.html)<br>
 
 =====
 
 ### How to bulid?
 
-* Only need ofxTriangular library,and no need other dependencies<br><br>
+* Only need ofxTriangular library,and no need other dependencies<br>
 
 
-* To bulid example you need to include ofxUI and ofxXmlSettings<br><br>
+* To bulid example you need to include ofxUI and ofxXmlSettings<br>
 
 
-* replace the defalut project's ```ofApp.cpp``` + ```ofApp.h``` + ```main.cpp```<br><br>
+* replace the defalut project's ```ofApp.cpp``` + ```ofApp.h``` + ```main.cpp```<br>
 
 =====
 
@@ -90,9 +90,9 @@ for(int i=0; i<triangles.size(); i++)
 
 ### Shortage
 
-* The Option ```Tesselation``` was enabled, but the effect of it was not obvious.(unless you set the option ```tesselation```  ```0``` compared with ```600```)<br><br>
-* Don't support advanced features like ```iteration```, ```constraint```. etc(haven't open the ```API``` yet).<br><br>
-* Under some certain circumstances, ```Debug``` is much easier to crash than the ```Release```.<br><br>
+* The Option ```Tesselation``` was enabled, but the effect of it was not obvious.(unless you set the option ```tesselation```  ```0``` compared with ```600```)<br>
+* Don't support advanced features like ```iteration```, ```constraint```. etc(haven't open the ```API``` yet).<br>
+* Under some certain circumstances, ```Debug``` is much easier to crash than the ```Release```.<br>
 
 =====
 
