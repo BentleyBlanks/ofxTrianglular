@@ -10,13 +10,13 @@ Based on ```Jonathan Richard Shewchuk```'s triangle http://www.cs.cmu.edu/~quake
 
 ### How to bulid?
 
-* Only need ofxTriangular library,and no need other dependencies<br>
+* Only need ofxTriangular library,and no need other dependencies<br><br>
 
 
-* To bulid example you need to include ofxUI and ofxXmlSettings<br>
+* To bulid example you need to include ofxUI and ofxXmlSettings<br><br>
 
 
-* replace the defalut project's ```ofApp.cpp``` + ```ofApp.h``` + ```main.cpp```<br>
+* replace the defalut project's ```ofApp.cpp``` + ```ofApp.h``` + ```main.cpp```<br><br>
 
 =====
 
@@ -88,11 +88,11 @@ for(int i=0; i<triangles.size(); i++)
 
 =====
 
-### 目前已知不足
+### Shortage
 
-* The Option ```Tesselation``` was enabled, but the effect of it was not obvious.(unless you set the option ```tesselation```  ```0``` compared with ```600```)<br>
-* Don't support advanced features like ```iteration```, ```constraint```. etc(haven't open the ```API``` yet).<br>
-* Under some certain circumstances, ```Debug``` is much easier to crash than the ```Release```.
+* The Option ```Tesselation``` was enabled, but the effect of it was not obvious.(unless you set the option ```tesselation```  ```0``` compared with ```600```)<br><br>
+* Don't support advanced features like ```iteration```, ```constraint```. etc(haven't open the ```API``` yet).<br><br>
+* Under some certain circumstances, ```Debug``` is much easier to crash than the ```Release```.<br><br>
 
 =====
 
