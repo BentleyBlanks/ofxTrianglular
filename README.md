@@ -2,7 +2,7 @@
 
 Easy to subdivide a complex 2d shape to triangles.<br>
 
-Support ```OSX``` and ```Windows```(Xcode 6.0, Visual Studio 2012), ```Linux```(QtCreator, Ubuntu, Thanks for [icq4ever](https://github.com/icq4ever)).<br>
+Support ```OSX```(Xcode 6.0) ```Windows```(Visual Studio 2012), and ```Linux```(QtCreator, Ubuntu, Thanks for [icq4ever](https://github.com/icq4ever)).<br>
 
 Based on ```Jonathan Richard Shewchuk```'s [triangle library]( http://www.cs.cmu.edu/~quake/triangle.html)<br>
 
