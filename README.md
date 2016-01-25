@@ -92,7 +92,7 @@ for(int i=0; i<triangles.size(); i++)
 
 * The Option ```Tesselation``` was enabled, but the effect of it was not obvious.(unless you set the option ```tesselation```  ```0``` compared with ```600```)<br><br>
 * Don't support advanced features like ```iteration```, ```constraint```. etc(haven't open the ```API``` yet).<br><br>
-* Under some certain circumstances, ```Debug``` is much easier to crash than the ```Release```.<br><br>
+* Under some certain circumstances, ```Debug``` is much easier to crash than the ```Release```.<br>
 
 =====
 
