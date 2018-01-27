@@ -6,7 +6,7 @@ Support ```OSX```(Xcode 6.0) ```Windows```(Visual Studio 2012), and ```Linux```(
 
 Based on ```Jonathan Richard Shewchuk```'s [triangle library]( http://www.cs.cmu.edu/~quake/triangle.html)<br>
 
-=====
+---
 
 ### How to bulid?
 
@@ -18,17 +18,17 @@ Based on ```Jonathan Richard Shewchuk```'s [triangle library]( http://www.cs.cmu
 
 * replace the defalut project's ```ofApp.cpp``` + ```ofApp.h``` + ```main.cpp```<br>
 
-=====
+---
 
 ### Screenshot
 
 #### OSX
 
-![image](https://github.com/BentleyBlanks/ofxTrianglular/raw/master/pictures/Mac (1).png)
+![image](https://raw.githubusercontent.com/BentleyBlanks/ofxTrianglular/master/pictures/Mac%20(1).png)
 
 #### Windows
 
-![image](https://github.com/BentleyBlanks/ofxTrianglular/raw/master/pictures/Windows (1).jpg)
+![image](https://github.com/BentleyBlanks/ofxTrianglular/raw/master/pictures/Windows(1).jpg)
 
 #### Linux
 
@@ -36,7 +36,7 @@ Based on ```Jonathan Richard Shewchuk```'s [triangle library]( http://www.cs.cmu
 
 (Thanks for [icq4ever](https://github.com/icq4ever))
 
-=====
+---
 
 ### Getting Started
 
@@ -86,7 +86,7 @@ for(int i=0; i<triangles.size(); i++)
 }
 ```
 
-=====
+---
 
 ### Shortage
 
@@ -94,7 +94,7 @@ for(int i=0; i<triangles.size(); i++)
 * Don't support advanced features like ```iteration```, ```constraint```. etc(haven't open the ```API``` yet).<br><br>
 * Under some certain circumstances, ```Debug``` is much easier to crash than the ```Release```.<br>
 
-=====
+---
 
 #### Extreme Cases
 
@@ -102,19 +102,18 @@ Only in some exreme cases (complex nested boundary) that ofxTriangular runs on W
 
 #### OSX
 
-![image](https://github.com/BentleyBlanks/ofxTrianglular/raw/master/pictures/Mac (2).png)
+![image](https://raw.githubusercontent.com/BentleyBlanks/ofxTrianglular/master/pictures/Mac%20(2).png)
 
-![image](https://github.com/BentleyBlanks/ofxTrianglular/raw/master/pictures/Mac (3).png)
+![image](https://raw.githubusercontent.com/BentleyBlanks/ofxTrianglular/master/pictures/Mac%20(3).png)
 
 #### Windows
 
-![image](https://github.com/BentleyBlanks/ofxTrianglular/raw/master/pictures/Windows (2).jpg)
+![image](https://raw.githubusercontent.com/BentleyBlanks/ofxTrianglular/master/pictures/Windows%20(1).jpg)
 
-![image](https://github.com/BentleyBlanks/ofxTrianglular/raw/master/pictures/Windows (3).jpg)
+![image](https://raw.githubusercontent.com/BentleyBlanks/ofxTrianglular/master/pictures/Windows%20(2).jpg)
 
 
-
-=====
+---
 
 ## Author
 
