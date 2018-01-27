@@ -8,19 +8,19 @@ Based on ```Jonathan Richard Shewchuk```'s [triangle library]( http://www.cs.cmu
 
 ---
 
-### How to bulid?
+### How to bulid
 
-* Only need ofxTriangular library,and no need other dependencies<br>
-
-
-* To bulid example you need to include [ofxUI](https://github.com/rezaali/ofxUI) and [ofxXmlSettings](https://github.com/openframeworks/openFrameworks/tree/master/addons/ofxXmlSettings)<br>
+* Based on [OpenFrameworks](http://openframeworks.cc/), only need [ofxTriangular](https://github.com/BentleyBlanks/ofxTrianglular), no other dependencies<br>
 
 
-* replace the defalut project's ```ofApp.cpp``` + ```ofApp.h``` + ```main.cpp```<br>
+* To bulid example you need to include [ofxUI](https://github.com/rezaali/ofxUI) and [ofxXmlSettings](https://github.com/openframeworks/openFrameworks/tree/master/addons/ofxXmlSettings) in projectGenerator or added manually.
+
+
+* Replace the defalut project's ```ofApp.cpp``` + ```ofApp.h``` + ```main.cpp```<br>
 
 ---
 
-### Screenshot
+### Screenshots
 
 #### OSX
 
@@ -28,7 +28,7 @@ Based on ```Jonathan Richard Shewchuk```'s [triangle library]( http://www.cs.cmu
 
 #### Windows
 
-![image](https://github.com/BentleyBlanks/ofxTrianglular/raw/master/pictures/Windows(1).jpg)
+![image](https://raw.githubusercontent.com/BentleyBlanks/ofxTrianglular/master/pictures/Windows%20(1).jpg)
 
 #### Linux
 
