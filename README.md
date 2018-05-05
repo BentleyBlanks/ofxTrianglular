@@ -24,11 +24,11 @@ Based on ```Jonathan Richard Shewchuk```'s [triangle library]( http://www.cs.cmu
 
 #### OSX
 
-![image](https://raw.githubusercontent.com/BentleyBlanks/ofxTrianglular/master/pictures/Mac%20(1).png)
+![image](https://raw.githubusercontent.com/BentleyBlanks/ofxTrianglular/master/pictures/Mac(1).png)
 
 #### Windows
 
-![image](https://raw.githubusercontent.com/BentleyBlanks/ofxTrianglular/master/pictures/Windows%20(1).jpg)
+![image](https://raw.githubusercontent.com/BentleyBlanks/ofxTrianglular/master/pictures/Windows(1).jpg)
 
 #### Linux
 
@@ -102,15 +102,15 @@ Only in some exreme cases (complex nested boundary) that ofxTriangular runs on W
 
 #### OSX
 
-![image](https://raw.githubusercontent.com/BentleyBlanks/ofxTrianglular/master/pictures/Mac%20(2).png)
+![image](https://raw.githubusercontent.com/BentleyBlanks/ofxTrianglular/master/pictures/Mac(2).png)
 
-![image](https://raw.githubusercontent.com/BentleyBlanks/ofxTrianglular/master/pictures/Mac%20(3).png)
+![image](https://raw.githubusercontent.com/BentleyBlanks/ofxTrianglular/master/pictures/Mac(3).png)
 
 #### Windows
 
-![image](https://raw.githubusercontent.com/BentleyBlanks/ofxTrianglular/master/pictures/Windows%20(1).jpg)
+![image](https://raw.githubusercontent.com/BentleyBlanks/ofxTrianglular/master/pictures/Windows(1).jpg)
 
-![image](https://raw.githubusercontent.com/BentleyBlanks/ofxTrianglular/master/pictures/Windows%20(2).jpg)
+![image](https://raw.githubusercontent.com/BentleyBlanks/ofxTrianglular/master/pictures/Windows(2).jpg)
 
 
 ---
