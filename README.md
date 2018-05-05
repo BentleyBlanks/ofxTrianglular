@@ -24,11 +24,11 @@ Based on ```Jonathan Richard Shewchuk```'s [triangle library]( http://www.cs.cmu
 
 #### OSX
 
-<img src="https://farm1.staticflickr.com/974/41192194614_86afa62b4f_o.png" width="2144" height="1548" alt="Mac 1">
+![image](https://raw.githubusercontent.com/BentleyBlanks/ofxTrianglular/master/pictures/Mac%20(1).png)
 
 #### Windows
 
-<img src="https://farm1.staticflickr.com/911/41192193784_d633ababa8_o.jpg" width="976" height="676" alt="Windows 1">
+![image](https://raw.githubusercontent.com/BentleyBlanks/ofxTrianglular/master/pictures/Windows%20(1).jpg)
 
 #### Linux
 
@@ -102,15 +102,16 @@ Only in some exreme cases (complex nested boundary) that ofxTriangular runs on W
 
 #### OSX
 
-<img src="https://farm1.staticflickr.com/957/41192194364_8a6e5c3299_o.png" width="2144" height="1548" alt="Mac 2">
+![image](https://raw.githubusercontent.com/BentleyBlanks/ofxTrianglular/master/pictures/Mac%20(2).png)
 
-<img src="https://farm1.staticflickr.com/829/41192194104_1b1e4d44bf_o.png" width="2144" height="1548" alt="Mac 3">
+![image](https://raw.githubusercontent.com/BentleyBlanks/ofxTrianglular/master/pictures/Mac%20(3).png)
 
 #### Windows
 
-<img src="https://farm1.staticflickr.com/977/41192193534_c4483c9590_o.jpg" width="976" height="676" alt="Windows 2">
+![image](https://raw.githubusercontent.com/BentleyBlanks/ofxTrianglular/master/pictures/Windows%20(1).jpg)
 
-<img src="https://farm1.staticflickr.com/943/41192193184_07c5fa2765_o.jpg" width="976" height="676" alt="Windows 3">
+![image](https://raw.githubusercontent.com/BentleyBlanks/ofxTrianglular/master/pictures/Windows%20(2).jpg)
+
 
 ---
 
